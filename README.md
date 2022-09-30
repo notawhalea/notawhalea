@@ -1,7 +1,7 @@
-<img aligh="center" alt="Coding" width="1400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwmy910x4WZSXIeWNG-8Ly117VoiI5flg6HrhOdjdSYB8qTmpqCNk2Lofub0OoBTadmfM&usqp=CAU">
+<img aligh="center" alt="Coding" width="1400" src="assets/2979290.jpg">
 <h1 align="center">Hi 👋, I'm Nikita Pelikh</h1>
 <h3 align="center">A passionate full stack developer</h3>
-<img src="assets/gifinreadme.gif" aligh="center" alt="Coding" width="800">
+<img src="assets/gifinreadme.gif" aligh="center" alt="Coding" width="1000">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notawhalea&label=Profile%20views&color=0e75b6&style=flat" alt="notawhalea" /> </p>
 
