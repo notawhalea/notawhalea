@@ -1,4 +1,4 @@
-<img aligh="center" alt="Coding" width="1400" src="assets/2979290.jpg">
+<img aligh="center" alt="Coding" width="1400" src="assets/2109958.jpg">
 <h1 align="center">Hi 👋, I'm Nikita Pelikh</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img src="assets/gifinreadme.gif" aligh="center" alt="Coding" width="1000">
